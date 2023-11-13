@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rsa_secure", "rsa_secure\rsa_secure.csproj", "{4DEA8BBA-33F9-4701-8199-04C875B2A820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{7332D0C7-1533-4A2E-90E7-A2BAE4660F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEA8BBA-33F9-4701-8199-04C875B2A820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEA8BBA-33F9-4701-8199-04C875B2A820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEA8BBA-33F9-4701-8199-04C875B2A820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEA8BBA-33F9-4701-8199-04C875B2A820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7332D0C7-1533-4A2E-90E7-A2BAE4660F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7332D0C7-1533-4A2E-90E7-A2BAE4660F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7332D0C7-1533-4A2E-90E7-A2BAE4660F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7332D0C7-1533-4A2E-90E7-A2BAE4660F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F86E73CD-87AF-42AF-8E03-C5B6D9BA198D}
+	EndGlobalSection
+EndGlobal
